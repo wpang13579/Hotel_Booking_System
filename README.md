@@ -32,7 +32,7 @@ A PHP-based hotel management system with modular support for guest bookings, inv
 
 ---
 
-## 💡 Tech Stack
+## 💡 Using
 
 - PHP  
 - HTML/CSS  
